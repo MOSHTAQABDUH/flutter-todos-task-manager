@@ -215,26 +215,4 @@ widgets | custom widgets
 
 ## app download
 
-Android download link：
-
-
-
-<img width="250" height="250" src="https://user-images.githubusercontent.com/30992818/65225126-225fed00-daf7-11e9-9eb7-cd21e6b1cc95.png"/>
-
-Ios download link：
-
-  I haven't purchased an iOS developer account for 99$ a year
-  
-    Note: The current project running environment is the version of flutter 1.9.7. The modified version has more destructive fixes than before.
-    If your version of flutter is lower than the current version, some third-party libraries that are dependent on the project will not run. Please lower their version at that time.
-    
-    The following is a third-party library that needs to be modified under version 1.5.4.
-    
-    -   flutter_svg: ^0.12.4+2
-    -   image_crop: ^0.2.1
-    -   flare_flutter: ^1.5.4
-    -   photo_view: ^0.3.3
-
-
-If you think this app is good, or if this project helps you, give this project a Star. The project will continue to be updated and maintained afterwards.！
 
