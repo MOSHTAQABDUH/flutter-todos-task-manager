@@ -1,0 +1,1119 @@
+{
+  "@@last_modified": "2019-06-28T17:59:54.925401",
+  "appName": "One Day List",
+  "@appName": {
+    "description": "app的名字",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tryToSearch": "Try searching for the title or content",
+  "@tryToSearch": {
+    "description": "试试搜一下标题、内容吧",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchIcon": "Try searching for icon name",
+  "@searchIcon": {
+    "description": "搜索图标名字",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myAccount": "My Account",
+  "@myAccount": {
+    "description": "我的账号",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "description": "登录",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "EMAIL",
+  "@email": {
+    "description": "邮箱",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "PASSWORD",
+  "@password": {
+    "description": "密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputEmail": "Enter email",
+  "@inputEmail": {
+    "description": "输入邮箱",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputPassword": "Enter password",
+  "@inputPassword": {
+    "description": "输入密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forget": "Forget",
+  "@forget": {
+    "description": "忘记",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logIn": "Log In",
+  "@logIn": {
+    "description": "登 录",
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveNoAccount": "Don't have an Account?Sign Up",
+  "@haveNoAccount": {
+    "description": "没有账号?注册一个",
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "Register",
+  "@register": {
+    "description": "注册",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailCantBeEmpty": "email cannot be empty",
+  "@emailCantBeEmpty": {
+    "description": "邮箱不能为空",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailIncorrectFormat": "email format is incorrect",
+  "@emailIncorrectFormat": {
+    "description": "邮箱格式不正确",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordCantBeEmpty": "password cannot be empty",
+  "@passwordCantBeEmpty": {
+    "description": "密码不能为空",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordTooShort": "password length cannot be less than 8 digits",
+  "@passwordTooShort": {
+    "description": "密码长度不能小于8位",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordTooLong": "password length cannot be greater than 20 digits",
+  "@passwordTooLong": {
+    "description": "密码长度不能大于20位",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "注册",
+    "type": "text",
+    "placeholders": {}
+  },
+  "setUserName": "please set your username",
+  "@setUserName": {
+    "description": "请设置你的用户名",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameContainEmpty": "username cannot contain spaces",
+  "@userNameContainEmpty": {
+    "description": "用户名不能包含空格",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyCodeCantBeEmpty": "verify code cannot be empty",
+  "@verifyCodeCantBeEmpty": {
+    "description": "验证码不能为空",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyCodeContainEmpty": "verify code cannot contain spaces",
+  "@verifyCodeContainEmpty": {
+    "description": "验证码不能包含空格",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPasswordCantBeEmpty": "confirm password cannot be empty",
+  "@confirmPasswordCantBeEmpty": {
+    "description": "确认密码不能为空",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPasswordContainEmpty": "confirm password cannot contain spaces",
+  "@confirmPasswordContainEmpty": {
+    "description": "确认密码不能包含空格",
+    "type": "text",
+    "placeholders": {}
+  },
+  "twoPasswordsNotSame": "two passwords are not same",
+  "@twoPasswordsNotSame": {
+    "description": "两次密码输入不一致",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "username",
+  "@userName": {
+    "description": "用户名",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailAccount": "email account",
+  "@emailAccount": {
+    "description": "邮箱账号",
+    "type": "text",
+    "placeholders": {}
+  },
+  "setEmailAccount": "please set your email account",
+  "@setEmailAccount": {
+    "description": "请设置你的邮箱账号",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputEmailAccount": "please input your email account",
+  "@inputEmailAccount": {
+    "description": "请输入你的邮箱账号",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyCode": "verify code",
+  "@verifyCode": {
+    "description": "验证码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputVerifyCode": "please input the verify code you obtained",
+  "@inputVerifyCode": {
+    "description": "请输入你获取的验证码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "getVerifyCode": "Get Verify Code",
+  "@getVerifyCode": {
+    "description": "获取验证码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "setPassword": "please set your password",
+  "@setPassword": {
+    "description": "请设置你的密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thePassword": "password",
+  "@thePassword": {
+    "description": "密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "reSetPassword": "please set your password again",
+  "@reSetPassword": {
+    "description": "再次确认你的密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "confirm password",
+  "@confirmPassword": {
+    "description": "确认密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkYourEmail": "please check your email account",
+  "@checkYourEmail": {
+    "description": "请检查你的邮箱账号",
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkYourEmailOrPassword": "please check your email account or password",
+  "@checkYourEmailOrPassword": {
+    "description": "请检查你的邮箱或者密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkYourUserName": "please check your username",
+  "@checkYourUserName": {
+    "description": "请检查你的用户名",
+    "type": "text",
+    "placeholders": {}
+  },
+  "usernameCantBeEmpty": "username cannot be empty",
+  "@usernameCantBeEmpty": {
+    "description": "用户名不能为空",
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrongParams": "please check your input content",
+  "@wrongParams": {
+    "description": "请检查你的输入内容",
+    "type": "text",
+    "placeholders": {}
+  },
+  "setNewPassword": "please set your new password",
+  "@setNewPassword": {
+    "description": "请设置你的新密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgetPassword": "Forget Password",
+  "@forgetPassword": {
+    "description": "忘记密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "description": "修改密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPassword": "new password",
+  "@newPassword": {
+    "description": "新密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oldPassword": "old password",
+  "@oldPassword": {
+    "description": "原密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputOldPassword": "please input your old password",
+  "@inputOldPassword": {
+    "description": "请输入你的原密码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oldPasswordCantBeEmpty": "old password cannot be empty",
+  "@oldPasswordCantBeEmpty": {
+    "description": "原密码不能为空",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPasswordCantBeEmpty": "new password cannot be empty",
+  "@newPasswordCantBeEmpty": {
+    "description": "新密码不能为空",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPasswordSuccess": "Password reset complete",
+  "@resetPasswordSuccess": {
+    "description": "密码修改成功",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPasswordFailed": "Password reset failed",
+  "@resetPasswordFailed": {
+    "description": "密码修改失败",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "退出登录",
+    "type": "text",
+    "placeholders": {}
+  },
+  "skip": "skip",
+  "@skip": {
+    "description": "跳过",
+    "type": "text",
+    "placeholders": {}
+  },
+  "doneList": "Done List",
+  "@doneList": {
+    "description": "完成列表",
+    "type": "text",
+    "placeholders": {}
+  },
+  "toFinishTask": "Try to complete a task!",
+  "@toFinishTask": {
+    "description": "努力去完成一项任务吧!",
+    "type": "text",
+    "placeholders": {}
+  },
+  "taskNum": "Task Number",
+  "@taskNum": {
+    "description": "任务数",
+    "type": "text",
+    "placeholders": {}
+  },
+  "createDate": "Create Date",
+  "@createDate": {
+    "description": "创建日期",
+    "type": "text",
+    "placeholders": {}
+  },
+  "completeDate": "Finish Date",
+  "@completeDate": {
+    "description": "完成日期",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spendTime": "Spend Time",
+  "@spendTime": {
+    "description": "用时",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changedTimes": "Changed Times",
+  "@changedTimes": {
+    "description": "修改次数",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hours": "{hours,plural, =0{Too Fast}=1{1 hour}many{{hours} hours}other{{hours} hours}}",
+  "@hours": {
+    "type": "text",
+    "placeholders": {
+      "hours": {}
+    }
+  },
+  "days": "{days,plural, =0{Too Fast}=1{1 day}many{{days} days}other{{days} days}}",
+  "@days": {
+    "type": "text",
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "languageTitle": "Change Language",
+  "@languageTitle": {
+    "description": "修改语言",
+    "type": "text",
+    "placeholders": {}
+  },
+    "changeTheme": "Change Theme",
+    "@changeTheme": {
+      "description": "切换主题",
+      "type": "text",
+      "placeholders": {}
+    },
+  "feedback": "Feedback",
+  "@feedback": {
+    "description": "意见反馈",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackWall": "Feedback Wall",
+  "@feedbackWall": {
+    "description": "反馈墙",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackCantBeNull": "feedback cannot be empty",
+  "@feedbackCantBeNull": {
+    "description": "意见反馈内容不能为空哦",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackIsTooLittle": "feedback is too little, add a little more",
+  "@feedbackIsTooLittle": {
+    "description": "意见反馈内容太少了，再加点儿吧",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackNeedEmoji": "please choose an emoji ",
+  "@feedbackNeedEmoji": {
+    "description": "选个评价表情吧",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackFrequently": "Can only be submitted once in 8 hours. ",
+  "@feedbackFrequently": {
+    "description": "8小时内只能提交一次哦",
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeYourFeedback": "write your feedback ",
+  "@writeYourFeedback": {
+    "description": "写下你的意见或是建议吧",
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeYourContactInfo": "whether to leave your contact information",
+  "@writeYourContactInfo": {
+    "description": "是否留下你的联系方式",
+    "type": "text",
+    "placeholders": {}
+  },
+  "waitAMoment": "please wait for a moment...",
+  "@waitAMoment": {
+    "description": "请稍后...",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submitSuccess": "submit success!",
+  "@submitSuccess": {
+    "description": "提交成功！",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thanksForFeedback": "Thanks for your feedback",
+  "@thanksForFeedback": {
+    "description": "感谢你的反馈",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submitAgain": "submit again",
+  "@submitAgain": {
+    "description": "重新提交",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noName": "anonymous",
+  "@noName": {
+    "description": "无名氏",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appSetting": "Setting",
+  "@appSetting": {
+    "description": "app设置",
+    "type": "text",
+    "placeholders": {}
+  },
+  "splashAnimation": "Turn on splash animation",
+  "@splashAnimation": {
+    "description": "开启首页动画",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bgChangeWithCard": "Background follow task icon color",
+  "@bgChangeWithCard": {
+    "description": "背景跟随任务图标颜色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cardChangeWithBg": "Task icon color follow background",
+  "@cardChangeWithBg": {
+    "description": "任务图标颜色跟随背景",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enableInfiniteScroll": "Task card cycle slide",
+  "@enableInfiniteScroll": {
+    "description": "任务卡片循环滑动",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backgroundGradient": "Background Gradient",
+  "@backgroundGradient": {
+    "description": "app设置",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enableWeatherShow": "Turn on the weather",
+  "@enableWeatherShow": {
+    "description": "开启天气",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enableNetPicBgInMainPage": "Turn on the net-picture background",
+  "@enableNetPicBgInMainPage": {
+    "description": "开启主页网络图片背景",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputCurrentCity": "input your city",
+  "@inputCurrentCity": {
+    "description": "手动输入你的城市",
+    "type": "text",
+    "placeholders": {}
+  },
+  "weatherGetWrong": "failed to get the weather，please try again",
+  "@weatherGetWrong": {
+    "description": "天气获取失败,请重新尝试",
+    "type": "text",
+    "placeholders": {}
+  },
+  "weatherGetting": "the weather is inquiring...",
+  "@weatherGetting": {
+    "description": "天气获取中...",
+    "type": "text",
+    "placeholders": {}
+  },
+  "weatherSuccess": "the weather is successful",
+  "@weatherSuccess": {
+    "description": "天气获取成功",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutApp": "About",
+  "@aboutApp": {
+    "description": "关于",
+    "type": "text",
+    "placeholders": {}
+  },
+  "versionDescription": "Version Description",
+  "@versionDescription": {
+    "description": "版本描述",
+    "type": "text",
+    "placeholders": {}
+  },
+  "projectLink": "Project Link",
+  "@projectLink": {
+    "description": "项目地址",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myGithub": "Author's Github",
+  "@myGithub": {
+    "description": "作者的github",
+    "type": "text",
+    "placeholders": {}
+  },
+  "iconSetting": "Icon Setting",
+  "@iconSetting": {
+    "description": "图标设置",
+    "type": "text",
+    "placeholders": {}
+  },
+  "navigatorSetting": "Navigator Setting",
+  "@navigatorSetting": {
+    "description": "导航栏设置",
+    "type": "text",
+    "placeholders": {}
+  },
+  "meteorShower": "Meteor Shower",
+  "@meteorShower": {
+    "description": "天体流星",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dailyPic": "Daily wallpaper",
+  "@dailyPic": {
+    "description": "每日壁纸",
+    "type": "text",
+    "placeholders": {}
+  },
+  "netPicture": "Network Picture",
+  "@netPicture": {
+    "description": "网络图片",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountBackgroundSetting": "Background setting",
+  "@accountBackgroundSetting": {
+    "description": "背景设置",
+    "type": "text",
+    "placeholders": {}
+  },
+  "picture": "Picture",
+  "@picture": {
+    "description": "图片",
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentIcons": "Current Icons",
+  "@currentIcons": {
+    "description": "当前图标",
+    "type": "text",
+    "placeholders": {}
+  },
+  "game": "Game",
+  "@game": {
+    "description": "打游戏",
+    "type": "text",
+    "placeholders": {}
+  },
+  "music": "Music",
+  "@music": {
+    "description": "听歌",
+    "type": "text",
+    "placeholders": {}
+  },
+  "read": "Read",
+  "@read": {
+    "description": "读书",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sports": "Sports",
+  "@sports": {
+    "description": "运动",
+    "type": "text",
+    "placeholders": {}
+  },
+  "travel": "Travel",
+  "@travel": {
+    "description": "旅行",
+    "type": "text",
+    "placeholders": {}
+  },
+  "work": "Work",
+  "@work": {
+    "description": "工作",
+    "type": "text",
+    "placeholders": {}
+  },
+  "setIconName": "icon name",
+  "@setIconName": {
+    "description": "给图标设置一个名字吧",
+    "type": "text",
+    "placeholders": {}
+  },
+  "defaultIconName": "default",
+  "@defaultIconName": {
+    "description": "默认",
+    "type": "text",
+    "placeholders": {}
+  },
+  "customIcon": "Custom Icon",
+  "@customIcon": {
+    "description": "自定义图标",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "cancel",
+  "@cancel": {
+    "description": "取消",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "ok",
+  "@ok": {
+    "description": "确定",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickAColor": "Pick a color!",
+  "@pickAColor": {
+    "description": "选择一个颜色吧!",
+    "type": "text",
+    "placeholders": {}
+  },
+  "canNotAddMoreIcon": "You can only customize up to 10 icons.",
+  "@canNotAddMoreIcon": {
+    "description": "最多只能自定义10个图标",
+    "type": "text",
+    "placeholders": {}
+  },
+  "canNotEditDefaultIcon": "Can't edit the default icon",
+  "@canNotEditDefaultIcon": {
+    "description": "默认图标无法编辑哦",
+    "type": "text",
+    "placeholders": {}
+  },
+  "customTheme": "Custom Theme",
+  "@customTheme": {
+    "description": "自定义主题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "canNotAddMoreTheme": "You can only customize up to 10 themes.",
+  "@canNotAddMoreTheme": {
+    "description": "最多只能自定义10个主题哦",
+    "type": "text",
+    "placeholders": {}
+  },
+  "defaultTitle": "Default title",
+  "@defaultTitle": {
+    "description": "默认标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "avatarLocal": "Select an avatar from the local",
+  "@avatarLocal": {
+    "description": "从本地选取头像",
+    "type": "text",
+    "placeholders": {}
+  },
+  "avatarNet": "Select an avatar from the network",
+  "@avatarNet": {
+    "description": "从网络选取头像",
+    "type": "text",
+    "placeholders": {}
+  },
+  "avatarHistory": "Select an avatar from the history",
+  "@avatarHistory": {
+    "description": "历史头像记录",
+    "type": "text",
+    "placeholders": {}
+  },
+  "avatar": "avatar",
+  "@avatar": {
+    "description": "头像",
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "save",
+  "@save": {
+    "description": "保存",
+    "type": "text",
+    "placeholders": {}
+  },
+  "history": "history",
+  "@history": {
+    "description": "历史",
+    "type": "text",
+    "placeholders": {}
+  },
+  "netPicHistory": "Net picture history",
+  "@netPicHistory": {
+    "description": "历史图片",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deniedDes": "Permission denied",
+  "@deniedDes": {
+    "description": "权限被拒绝",
+    "type": "text",
+    "placeholders": {}
+  },
+  "disabledDes": "Permission not available",
+  "@disabledDes": {
+    "description": "权限不可用",
+    "type": "text",
+    "placeholders": {}
+  },
+  "restrictedDes": "Permission is restricted",
+  "@restrictedDes": {
+    "description": "权限被限制",
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknownDes": "Unknown permission",
+  "@unknownDes": {
+    "description": "未知权限",
+    "type": "text",
+    "placeholders": {}
+  },
+  "openSystemSetting": "Open System Setting",
+  "@openSystemSetting": {
+    "description": "打开系统设置",
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkUpdate": "Check Update",
+  "@checkUpdate": {
+    "description": "检查更新",
+    "type": "text",
+    "placeholders": {}
+  },
+  "update": "update",
+  "@update": {
+    "description": "升级",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newVersionIsComing": "New version is comming!",
+  "@newVersionIsComing": {
+    "description": "新版本来啦!",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noUpdate": "It is the latest version",
+  "@noUpdate": {
+    "description": "已是最新版本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeAtLeastOneTaskItem": "Please write at least one task.",
+  "@writeAtLeastOneTaskItem": {
+    "description": "请至少写下一项任务哦",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pink": "pink",
+  "@pink": {
+    "description": "主题颜色",
+    "type": "text",
+    "placeholders": {}
+  },
+    "coffee": "coffee",
+    "@coffee": {
+      "description": "主题颜色",
+      "type": "text",
+      "placeholders": {}
+    },
+  "cyan": "cyan",
+  "@cyan": {
+    "description": "主题颜色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "green": "green",
+  "@green": {
+    "description": "主题颜色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "purple": "purple",
+  "@purple": {
+    "description": "主题颜色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dark": "dark",
+  "@dark": {
+    "description": "主题颜色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "blueGray": "blue-gray",
+  "@blueGray": {
+    "description": "主题颜色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editTask": "Edit",
+  "@editTask": {
+    "description": "编辑任务",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteTask": "Delete",
+  "@deleteTask": {
+    "description": "删除任务",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "提交任务",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addTask": "add a task",
+  "@addTask": {
+    "description": "添加任务",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "deadline": "deadline",
+  "@deadline": {
+    "description": "截止日期",
+    "type": "text",
+    "placeholders": {}
+  },
+  "startDate": "start date",
+  "@startDate": {
+    "description": "开始日期",
+    "type": "text",
+    "placeholders": {}
+  },
+  "remindMe": "remind me",
+  "@remindMe": {
+    "description": "提醒我",
+    "type": "text",
+    "placeholders": {}
+  },
+  "repeat": "repeat",
+  "@repeat": {
+    "description": "重复",
+    "type": "text",
+    "placeholders": {}
+  },
+  "startAfterEnd": "The start date need be smaller than the end date.",
+  "@startAfterEnd": {
+    "description": "开始日期要比结束日期小才行哦",
+    "type": "text",
+    "placeholders": {}
+  },
+  "endBeforeStart": "The end date need be bigger than the start date.",
+  "@endBeforeStart": {
+    "description": "结束日期要比开始日期大才行哦",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notSynced": "Not synced ",
+  "@notSynced": {
+    "description": "未同步 ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "clickToSyn": "Click to sync",
+  "@clickToSyn": {
+    "description": "点击同步",
+    "type": "text",
+    "placeholders": {}
+  },
+  "synchronizing": "Synchronizing...",
+  "@synchronizing": {
+    "description": "同步中...",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cloudSynchronizing": "Synchronizing from server...",
+  "@cloudSynchronizing": {
+    "description": "获取云端数据...",
+    "type": "text",
+    "placeholders": {}
+  },
+  "synchronizeFailed": "Synchronize failed",
+  "@synchronizeFailed": {
+    "description": "同步失败",
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcomeWord": "Hello! ",
+  "@welcomeWord": {
+    "description": "主页的欢迎词",
+    "type": "text",
+    "placeholders": {}
+  },
+  "customUserName": "Setting your username",
+  "@customUserName": {
+    "description": "昵称设置",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputUserName": "input your username",
+  "@inputUserName": {
+    "description": "输入你的昵称吧",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameCantBeNull": "username can not be empty",
+  "@userNameCantBeNull": {
+    "description": "昵称不能为空哦!",
+    "type": "text",
+    "placeholders": {}
+  },
+  "taskItems": "{taskNumbers,plural, =0{You have never written a list of tasks.\nLet''s get started soon.}=1{This is your todo-list,\nToday, you have 1 task to complete. }many{This is your todo-list,\nToday, you have {taskNumbers} tasks to complete. }other{This is your todo-list,\nToday, you have {taskNumbers} tasks to complete. }}",
+  "@taskItems": {
+    "type": "text",
+    "placeholders": {
+      "taskNumbers": {}
+    }
+  },
+  "itemNumber": "{number,plural, =0{There is No items }=1{1 item }other{{number} items }}",
+  "@itemNumber": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "loadingEmpty": "nothing at all",
+  "@loadingEmpty": {
+    "description": "什么都没有哦",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingIdle": "......",
+  "@loadingIdle": {
+    "description": "......",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingError": "loading error",
+  "@loadingError": {
+    "description": "加载出错了",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "loading...",
+  "@loading": {
+    "description": "加载中...",
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting": "waiting...",
+  "@waiting": {
+    "description": "请稍后...",
+    "type": "text",
+    "placeholders": {}
+  },
+  "timeOut": "timeout error",
+  "@timeOut": {
+    "description": "超时错误",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "pullUpToLoadMore": "pull up load more",
+  "@pullUpToLoadMore": {
+    "description": "上拉加载更多",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pullDownToRefresh": "pull down to refresh",
+  "@pullDownToRefresh": {
+    "description": "下拉刷新",
+    "type": "text",
+    "placeholders": {}
+  },
+ "reLoading": "click to reload",
+ "@reLoading": {
+   "description": "点击重新加载",
+   "type": "text",
+   "placeholders": {}
+ },
+  "requestError": "request error",
+  "@requestError": {
+    "description": "请求错误",
+    "type": "text",
+    "placeholders": {}
+  },
+  "requestFailed": "request failed",
+  "@requestFailed": {
+    "description": "请求失败",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version100": "Version:1.0.0 \n\nThe Version 1.0.0 released!\n",
+  "@version100": {
+    "description": "版本:1.0.0 \n\n版本 1.0.0 发布啦!",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version101": "Version:1.0.1 \n\n1.Fixed: done list show error \n2.Add: Edit page can add start-date and deadline\n",
+  "@version101": {
+    "description": "版本:1.0.1 \n\n1.修复完成列表界面的显示bug\n2.新增编辑任务可以添加起止时间，用作提醒\n",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version102": "Version:1.0.2 \n\n1.Fixed: some bugs \n2.Add: IconSetting Page can search icons now \n",
+  "@version102": {
+    "description": "版本:1.0.2 \n\n1.修复一些小bug \n2.图标设置界面可以搜索图标了 \n",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version103": "Version:1.0.3 \n\n1.Fixed: The text color of the upgrade frame is wrong.(dark mode) \n2.Fixed: Done List complete time is negative. \n3.Add: Suggestion display wall. \n",
+  "@version103": {
+    "description": "版本:1.0.3 \n\n1.修复：升级弹框的文字颜色错误(夜间模式下) \n2.修复：升级弹框的文字颜色错误(夜间模式下) \n3.新增：留言展示墙！ \n",
+    "type": "text",
+    "placeholders": {}
+  },
+ "version104": "Version:1.0.4 \n\n1.Fixed: Search page overflow bugs, other small bugs \n2.Add: Account System.🎉 Celebrating github Star’s number over 500！ \n\nTodo: Sync task list information to the cloud \n",
+ "@version104": {
+   "description": "版本:1.0.4 \n\n1.修复：搜索页面的控件溢出bug、其他各种小bug \n2.新增：账号系统!🎉庆祝github Star数过500！ \n\nTodo:任务列表信息同步至云端功能,麻麻再也不用担心我换手机啦\n",
+   "type": "text",
+   "placeholders": {}
+  },
+  "version105": "Version:1.0.5 \n\n1.Fixed: Fix the bug that the homepage returns to log in and then returns to the homepage to create a task that cannot be refreshed \n2.Optimization: upgrade popup display timeout error \n3.Add: 🎉 Sync tasks to the cloud! Ma Ma no longer have to worry about changing my phone! 🎉 \n",
+  "@version105": {
+    "description": "版本:1.0.5 \n\n1.修复：修复从主页进入登录页登录后再进入主页后，创建task不能刷新的bug \n2.优化：升级弹窗显示timeout报错 \n3.新增：🎉任务同步至云端功能！麻麻再也不用担心我换手机啦！🎉 ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version106": "Version:1.0.6 \n\n1.Fixed: a lot of bugs due to the online account system. \n2.Optimization: now you can edit all icons when the icons's number is bigger than six  \n3.Add: You can set the network image as the background on the account page. \n",
+  "@version106": {
+    "description": "版本:1.0.6 \n\n1.修复：大量因为上线账号系统,而新增的bug \n2.优化：当自定义图标数量不低于6个的时候，你可以任意编辑图标啦 \n3.新增：你可以在账号页面设置网络图片作为背景啦",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version107": "Version:1.0.7 \n\n1.Fixed: some bugs had been discovered! \n2.Add: Now you can change your background to network image in main page!It will be very beautiful! \n",
+  "@version107": {
+    "description": "版本:1.0.7 \n\n1.修复：已经发现的一些bug\n2.新增：现在可以将主页的背景更换为网络图片啦，非常漂亮哦！ \n",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version108": "Version:1.0.8 \n\n1.Fixed: Now the validator of TextFormField will appear after you click the button \n2.Add: Now the network picture you have set will be shown in history page \n",
+  "@version108": {
+    "description": "版本:1.0.8 \n\n1.修复：输入框的验证提示将会在点击按钮后显示n2.新增：你使用过的网络背景图片现在可以在历史记录中找到了 \n",
+    "type": "text",
+    "placeholders": {}
+  },
+  "version109": "Version:1.0.9 \n\n1.Fixed:Input box cursor is not aligned with text \n2.Optimization:The sliding event of the task disc is no longer limited to the task icon, but is triggered on the entire disc \n3.Add: ✨Splash Animation!✨ \n",
+  "@version109": {
+    "description": "版本:1.0.9 \n\n1.修复：输入框光标与文字不对齐的问题 \n2.优化：任务圆盘的滑动事件不再局限于任务图标，而是在整个圆盘上触发 \n3.新增：✨开场动画！✨ \n",
+    "type": "text",
+    "placeholders": {}
+  }
+}
